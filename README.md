@@ -29,3 +29,4 @@
 		Для кнопок и фильтров можно добавить картинку макета с кликабельной ссылкой на сайт, чтобы учитель мог увидеть интерактивность.
 [Go into the link](https://harmonious-cobbler-b1a9c2.netlify.app/)
 (C:\Users\Admin\Downloads\nique rest - html\nique rest - html\img\menu\thailand.pure.png)
+!(thailand.pure.png)
