@@ -1,3 +1,4 @@
+![Image Alt](https://github.com/arbuz-tesak/my.tailand/blob/main/thai-no%20idea.png?raw=true)
 🟢 Первый блок — «Встречает нас чистый вкус Таиланда»
 		Это главный экран сайта (Hero Block).
 		В центре текста написано что-то вроде: “Чистый вкус Таиланда”.
