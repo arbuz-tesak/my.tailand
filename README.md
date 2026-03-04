@@ -13,8 +13,9 @@
 		Ужин
 		Напитки
 		При нажатии на один из фильтров, например «Завтрак», пользователь видит только элементы выбранной категории.
-		Это удобно, чтобы быстро ориентироваться в меню и не листать весь список блюд.
-		![Image Alt](https://github.com/arbuz-tesak/my.tailand/blob/main/menu-tast-thiland.png?raw=true)
+		Это удобно, чтобы быстро ориентироваться в меню и не листать весь список блюд.																																					
+		
+![Image Alt](https://github.com/arbuz-tesak/my.tailand/blob/main/menu-tast-thiland.png?raw=true)
 
 
 🟢 Футер (нижняя часть сайта)
